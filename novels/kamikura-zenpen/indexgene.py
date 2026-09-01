@@ -202,7 +202,7 @@ def main():
                 <h3>關於本站</h3>
                 <p>原文連載網址：<a href="{ORIGINAL_URL}" target="_blank">桜降る代に小噺を</a></p> 
                 <p>日文原文版權所有 © 作 五十嵐月夜 / 原案 BakaFire / 插繪 TOKIAME</p> 
-                <p>中文機械翻譯 SakuraLLM (14b-qwen2.5-v1.0-q6k)</p> 
+                <p>中文機械翻譯 SakuraLLM (14b-qwen2.5-v1.0-q6k) / ChatGPT 5.6 Luna</p> 
                 <p>本網站內容僅供學習交流使用，嚴禁用於商業用途。若有侵權請聯繫刪除。</p> 
             </div> 
         </main> 
