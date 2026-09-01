@@ -6,7 +6,7 @@
 
 - 原文連載網址：[桜降る代に小噺を](http://bfpblog.bakafire.main.jp/?eid=14)
 - 日文原文版權所有 © 作 五十嵐月夜 / 原案 BakaFire / 插繪 TOKIAME
-- 中文機械翻譯 SakuraLLM (14b-qwen2.5-v1.0-q6k)
+- 中文機械翻譯 SakuraLLM (14b-qwen2.5-v1.0-q6k) / ChatGPT 5.6 Luna
 - 本網站內容僅供學習交流使用，嚴禁用於商業用途。若有侵權請聯繫刪除。
 
 ## 目錄結構
